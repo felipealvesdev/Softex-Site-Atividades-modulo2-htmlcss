@@ -1,0 +1,49 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    background-color: brown;
+    color: white;
+    font-style: italic;
+    padding: 10px 50px;
+    border-radius: 15px;
+}
+
+#espanha{
+    font-size: 50px;
+    background-color: blanchedalmond;
+    padding: 10px 100vw;
+    color: brown;
+}
+
+.pEspanha{
+    background-color: blanchedalmond;
+    padding: 20px 30px;
+}
+
+#italia{
+    font-size: 50px;
+    background-color:forestgreen;
+    padding: 10px 100vw;
+    color: rgb(184, 0, 0);
+}
+.pItalia{
+    background-color:forestgreen;
+    padding: 20px 30px;
+}
+
+#grecia{
+    font-size: 50px;
+    background-color:rgb(39, 93, 255);
+    padding: 10px 100vw;
+    color: white;
+}
+.pGrecia{
+    background-color:rgb(39, 93, 255);
+    padding: 20px 30px;
+    color: white;
+}
