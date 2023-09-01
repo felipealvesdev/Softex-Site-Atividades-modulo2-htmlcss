@@ -1,0 +1,24 @@
+header{
+    background-color: cadetblue;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+    color: brown;
+    gap: 10px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+footer{
+    background-color: tomato;
+}
