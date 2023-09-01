@@ -1,0 +1,37 @@
+.cabecalho{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 50px;
+    background-color:brown;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 5px salmon;
+    color: white;
+}
+.corpo section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo section h2{
+    padding: 10px 50px;
+    box-shadow: 0px 0px 10px 5px salmon;
+    border-radius:  50px;
+}
+
+.rodape{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
